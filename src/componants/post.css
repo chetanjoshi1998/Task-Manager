@@ -1,0 +1,45 @@
+.Title{
+    font-size: 50px;
+    line-height: 50px;
+}
+
+
+
+.AddTask{
+    margin-left:  250px;
+    margin-right: 200px;
+    margin-top: 100px;
+    position: relative;
+    border: 2px solid black;
+}
+.Created_Task{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 20px;
+  
+    border: 1px black;
+}
+.Created_Task button{
+    margin-left: 20px;
+}
+.check{
+    margin-left: 5px;
+    
+}
+.check input{
+    padding-top: 5px;
+}
+.addedTask{
+    max-width: 200px;
+    margin-left: 20px;
+    height: 30px;
+    background-color: beige;
+    border: 1px black;
+    box-shadow: blue;
+}
+.addedTask p{
+    padding-top: 5px;
+    line-height: 20px;
+    font-size: 20px;
+  
+}
